@@ -99,15 +99,6 @@ $( document ).ready(function() {
             botonBorrarItem.dataset.prod = prod;
             botonBorrarItem.addEventListener('click', borrarItemCarrito);
 
-            //Botón agregar un producto.
-            //   const botonAgregarItem = document.createElement('button');
-            //   botonAgregarItem.classList.add('btn', 'btn-danger', 'mx-5');
-            //   botonAgregarItem.textContent = 'x';
-            //   botonAgregarItem.style.marginLeft = '1rem';
-            //   botonAgregarItem.dataset.prod = prod;
-            //   botonAgregarItem.addEventListener('click', sumarItemCarrito);
-
-
             // Agrego los hijos.
             itemCarrito.appendChild(botonBorrarItem);
             CarritoCompras.appendChild(itemCarrito);
