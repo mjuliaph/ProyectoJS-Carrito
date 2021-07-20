@@ -1,0 +1,203 @@
+[
+    {
+        "id": 1, 
+        "tipo": "bebida",
+        "nombre": "Villavicencio",
+        "imagen": "media/agua.jpg",
+        "descripcion": "Agua mineral sin gas",
+        "clasificacion": "sin alcohol",
+        "precio": 50,
+        "stock": true
+    },
+    {
+        "id": 2, 
+        "tipo": "bebida",
+        "nombre": "Villavicencio",
+        "imagen": "media/soda.jpg",
+        "descripcion": "Agua mineral con gas",
+        "clasificacion": "sin alcohol",
+        "precio": 50,
+        "stock": true
+    },
+    {
+        "id": 3, 
+        "tipo": "bebida",
+        "nombre": "Aquarius",
+        "imagen": "media/aquarius.jpg",
+        "descripcion": "Agua saborizada",
+        "clasificacion": "sin alcohol",
+        "precio": 70,
+        "stock": true
+    },
+    {
+        "id": 4, 
+        "tipo": "bebida",
+        "nombre": "Pepsi",
+        "imagen": "media/pepsi.jpg",
+        "descripcion": "gaseosa cola",
+        "clasificacion": "sin alcohol",
+        "precio": 80,
+        "stock": true
+    },
+    {
+        "id": 5, 
+        "tipo": "bebida",
+        "nombre": "Seven Up",
+        "imagen": "media/seven.jpg",
+        "descripcion": "gaseosa lima-limon",
+        "clasificacion": "sin alcohol",
+        "precio": 80,
+        "stock": true
+    },
+    {
+        "id": 6, 
+        "tipo": "bebida",
+        "nombre": "Mirinda",
+        "imagen": "media/mirinda.jpg",
+        "descripcion": "gaseosa naranja",
+        "clasificacion": "sin alcohol",
+        "precio": 80,
+        "stock": true
+    },
+    {
+        "id": 7, 
+        "tipo": "bebida",
+        "nombre": "Paso de los toros",
+        "imagen": "media/toros.jpg",
+        "descripcion": "gaseosa pomelo",
+        "clasificacion": "sin alcohol",
+        "precio": 80,
+        "stock": true
+    },
+    {
+        "id": 8, 
+        "tipo": "bebida",
+        "nombre": "Paso de los toros",
+        "imagen": "media/tonica.jpg",
+        "descripcion": "gaseosa tonica",
+        "clasificacion": "sin alcohol",
+        "precio": 80,
+        "stock": true
+    },
+    {
+        "id": 9, 
+        "tipo": "bebida",
+        "nombre": "limonada",
+        "imagen": "media/limonada.jpg",
+        "descripcion": "limonada",
+        "clasificacion": "sin alcohol",
+        "precio": 80,
+        "stock": true
+    },
+    {
+        "id": 10, 
+        "tipo": "bebida",
+        "nombre": "Santa Fe",
+        "imagen": "media/santafe.jpg",
+        "descripcion": "cerveza Santa Fe",
+        "clasificacion": "con alcohol",
+        "precio": 90,
+        "stock": true
+    },
+    {
+        "id": 11, 
+        "tipo": "bebida",
+        "nombre": "Santa Fe frost",
+        "imagen": "media/frost.jpg",
+        "descripcion": "cerveza frost",
+        "clasificacion": "con alcohol",
+        "precio": 90,
+        "stock": true
+    },
+    {
+        "id": 12, 
+        "tipo": "bebida",
+        "nombre": "Corona",
+        "imagen": "media/corona.png",
+        "descripcion": "cerveza corona",
+        "clasificacion": "con alcohol",
+        "precio": 90,
+        "stock": true
+    },
+    {
+        "id": 13, 
+        "tipo": "comida",
+        "nombre": "Papas Fritas",
+        "imagen": "media/papas.jpg",
+        "descripcion": "Bastones de Papa Fritos",
+        "clasificacion": "salado",
+        "precio": 50,
+        "stock": true
+    },
+    {
+        "id": 14, 
+        "tipo": "comida",
+        "nombre": "Nachos",
+        "imagen": "media/nachos.png",
+        "descripcion": "trozos de tortilla de maiz con queso",
+        "clasificacion": "salado",
+        "precio": 50,
+        "stock": true
+    },
+    {
+        "id": 15, 
+        "tipo": "comida",
+        "nombre": "Pancho",
+        "imagen": "media/pancho.png",
+        "descripcion": "Salchichas con pan",
+        "clasificacion": "salado",
+        "precio": 70,
+        "stock": true
+    },
+    {
+        "id": 16, 
+        "tipo": "comida",
+        "nombre": "Pochoclo Salado",
+        "imagen": "media/pochoclo.jpg",
+        "descripcion": "Palomitas de maiz saladas",
+        "clasificacion": "Salado",
+        "precio": 80,
+        "stock": true
+    },
+    {
+        "id": 17, 
+        "tipo": "comida",
+        "nombre": "Pochoclo",
+        "imagen": "media/pochoclo.jpg",
+        "descripcion": "Palomitas de maiz dulces",
+        "clasificacion": "Dulce",
+        "precio": 80,
+        "stock": true
+    },
+    {
+        "id": 18, 
+        "tipo": "comida",
+        "nombre": "Helado",
+        "imagen": "media/helado.jpg",
+        "descripcion": "Helado gusto a eleccion",
+        "clasificacion": "Dulce",
+        "precio": 80,
+        "stock": true
+    },
+    {
+        "id": 19, 
+        "tipo": "comida",
+        "nombre": "Sugus Confitados",
+        "imagen": "media/sugus.jpg",
+        "descripcion": "Caramelos ",
+        "clasificacion": "Dulce",
+        "precio": 60,
+        "stock": true
+    },
+    {
+        "id": 20, 
+        "tipo": "comida",
+        "nombre": "Alfajor",
+        "imagen": "media/alnegro.png",
+        "descripcion": "Alfajor de Chocolate",
+        "clasificacion": "Dulce",
+        "precio": 60,
+        "stock": true
+    }
+
+]
