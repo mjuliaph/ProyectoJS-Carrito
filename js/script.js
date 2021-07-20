@@ -29,7 +29,6 @@ $( document ).ready(function() {
     const CarritoCompras = document.querySelector('#carrito');
     const gastoTotal = document.querySelector('#gastoTotal');
     const botonVaciarCarrito = document.querySelector('#vaciarCarrito');
-    const botonFinalizarCompra = document.querySelector('#comprarProductos');
     const miLocalStorage = window.localStorage;
 
 
@@ -166,10 +165,6 @@ $( document ).ready(function() {
     // Eventos
     botonVaciarCarrito.addEventListener('click', vaciarCarrito);
 
-    // Hacer un mensaje de copra realizada.
-    // botonFinalizarCompra.addEventListener('click', );
-
-   
     // Llamadas de las funciones.
 
     cargarCarritoEnLocalStorage();

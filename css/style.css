@@ -119,7 +119,7 @@ h1 {
   display: none;
   position: fixed;
   top: 0;
-  right: 2px;
+  left: 5px;
   z-index: 1;
   background: crimson;
   color: white;
